@@ -87,4 +87,4 @@ Soy **Jose Sanchez**, un desarrollador de software con más de **10 años de exp
 ---
 
 ---
-🛠️ Si se puede imaginar se puede construir.
+🛠️ Si se puede imaginar, se puede construir.

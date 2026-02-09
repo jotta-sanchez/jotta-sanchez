@@ -82,7 +82,7 @@ Soy **Jose Sanchez**, un desarrollador de software con más de **10 años de exp
 ### 📫 Contacto
 
 - Email: [j.sanchez@live.com.ar]  
-- Portfolio: [digitaljs.com.ar](https://digitaljs.com.ar/)
+- Portfolio: [https://jsanchez.digitaljs.com.ar/](https://jsanchez.digitaljs.com.ar/)
 
 ---
 
